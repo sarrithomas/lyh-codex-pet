@@ -1,0 +1,23 @@
+{
+  "name": "刘雨航",
+  "slug": "lyh",
+  "description": "戴黑框眼镜、穿黑色羽绒服的刘雨航 Q 版桌宠。",
+  "asset": "assets/lyh_codex_pet.webp",
+  "mimeType": "image/webp",
+  "spriteVersionNumber": 1,
+  "dimensions": [1536, 1872],
+  "cell": [192, 208],
+  "grid": [8, 9],
+  "states": {
+    "idle": 6,
+    "runRight": 8,
+    "runLeft": 8,
+    "wave": 4,
+    "jump": 5,
+    "failure": 8,
+    "waiting": 6,
+    "activeWork": 6,
+    "review": 6
+  }
+}
+
