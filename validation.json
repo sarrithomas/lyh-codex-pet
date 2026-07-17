@@ -1,0 +1,14 @@
+{
+  "file": "assets/lyh_codex_pet.webp",
+  "mimeType": "image/webp",
+  "dimensions": [
+    1536,
+    1872
+  ],
+  "mode": "RGBA",
+  "fileSizeBytes": 343912,
+  "under20MiB": true,
+  "requiredFramesNonempty": true,
+  "unusedCellsTransparent": true,
+  "passed": true
+}
